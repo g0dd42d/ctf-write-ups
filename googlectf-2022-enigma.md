@@ -2,10 +2,10 @@
 ### Maple Mallard Magistrates (MMM)
 
 Blechley's Brightest:  
-REDACTED
+g0dd42d, argonaut0, DontMindMe, =)
 
 <br />  
-Hi all! I'm REDACTED with MMM. This is how we cracked the code and <strike>won the war</strike> got first blood!  
+Hi all! I'm g0dd42d with MMM. This is how we cracked the code and <strike>won the war</strike> got first blood!  
 
  <blockquote>
 <b>Crypto Challenge: ENIGMA  [500 Points / 9 Solves]</b>
